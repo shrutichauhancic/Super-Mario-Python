@@ -12,3 +12,5 @@ class GaussianBlur:
         pygame.surfarray.blit_array(nSrfc, blurred)
         del pxa
         return nSrfc
+
+        # Just for sake of commit
