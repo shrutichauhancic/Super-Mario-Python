@@ -5,7 +5,7 @@ from classes.Menu import Menu
 from classes.Sound import Sound
 from entities.Mario import Mario
 
-print("hello")
+print("hello")hjfvhjvf
 
 windowSize = (640,480)
 def main():
